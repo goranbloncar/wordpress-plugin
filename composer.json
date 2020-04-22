@@ -1,0 +1,15 @@
+{
+    "name": "goranloncar/torchlight",
+    "authors": [
+        {
+            "name": "Goran Loncar",
+            "email": "goran@torchlighttechnology.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\" : "./inc"
+        }
+    }
+}
